@@ -1,23 +1,31 @@
-# 📊 Data Analysis Portfolio (NumPy, Pandas, Matplotlib)
+# 📊 Data Analysis Portfolio
 
-This repository contains my hands-on work and projects in data analysis using Python libraries like NumPy, Pandas, and Matplotlib.
+This repository showcases my hands-on learning and projects in **data analysis using Python**, focusing on NumPy, Pandas, and Matplotlib.
+
+It includes structured practice as well as real-world dataset analysis to demonstrate practical problem-solving skills.
 
 ---
 
-## 🚀 What This Repository Shows
+## 🚀 Skills Demonstrated
 
-* Strong foundation in NumPy, Pandas, and Matplotlib
-* Practice exercises and structured learning
-* Real-world dataset analysis projects
-* Data cleaning, analysis, and visualization
+* Data Cleaning & Preprocessing (Pandas)
+* Numerical Computing (NumPy)
+* Data Visualization (Matplotlib)
+* Exploratory Data Analysis (EDA)
+* Working with Real-world Datasets
 
 ---
 
 ## 📁 Repository Structure
 
-* **projects/** → Real-world data analysis projects
-* **practice/** → Library-specific practice notebooks
-* **datasets/** → Raw datasets used in analysis
+```
+data-analysis-portfolio/
+│
+├── projects/      → Real-world data analysis projects  
+├── practice/      → Library-based practice (NumPy, Pandas, Matplotlib)  
+├── datasets/      → Raw datasets used in analysis  
+└── utils/         → Helper functions  
+```
 
 ---
 
@@ -26,27 +34,21 @@ This repository contains my hands-on work and projects in data analysis using Py
 ### 🛒 Supermarket Sales Analysis
 
 * Analyzed sales trends and product performance
-* Used Pandas for data cleaning and aggregation
-* Visualized insights using Matplotlib
+* Identified high-performing categories and time-based patterns
 
----
-
-### ⏿ Iris Dataset Analysis
+### 🌸 Iris Dataset Analysis
 
 * Explored feature distributions
-* Compared species using scatter plots
-* Performed exploratory data analysis
-
----
+* Compared species using visualizations
 
 ### 💰 Salary Data Analysis
 
-* Analyzed relationship between experience and salary
-* Created trend visualizations
+* Studied relationship between experience and salary
+* Identified trends using data visualization
 
 ---
 
-## 🛠 Tools Used
+## 🛠 Tools & Technologies
 
 * Python
 * NumPy
@@ -56,8 +58,15 @@ This repository contains my hands-on work and projects in data analysis using Py
 
 ---
 
-## 🎯 Goal
+## 🎯 Objective
 
-To build strong data analysis skills and showcase practical understanding through real datasets and projects.
+The goal of this repository is to demonstrate practical data analysis skills by working with datasets and extracting meaningful insights.
+
+---
+
+## 📬 Contact
+
+* LinkedIn: https://www.linkedin.com/in/dineshkumargudiputi/
+* Email: mein.dineshkumar@gmail.com
 
 ---
