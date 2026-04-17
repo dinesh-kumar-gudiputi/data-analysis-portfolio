@@ -36,7 +36,7 @@ data-analysis-portfolio/
 * Analyzed sales trends and product performance
 * Identified high-performing categories and time-based patterns
 
-### 🌸 Iris Dataset Analysis
+### 👀 Iris Dataset Analysis
 
 * Explored feature distributions
 * Compared species using visualizations
